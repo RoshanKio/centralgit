@@ -1,5 +1,7 @@
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Hello WOrld");
+		for(int i=1; i<=10; i++) {
+			System.out.println("HelloWorld");
+		}
 	}
 }
